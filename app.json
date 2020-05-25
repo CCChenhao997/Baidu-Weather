@@ -1,0 +1,37 @@
+{
+  "pages":[
+    "pages/weather_pro/weather_pro",
+    "pages/logs/logs",
+    "pages/weather/weather"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFB6C1",
+    "navigationBarTitleText": "天气助手",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+
+  "tabBar": {
+    "color": "",
+    "selectedColor": "",
+    "backgroundColor": "",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/weather/weather",
+        "text": "天气1",
+        "iconPath": "source/brightness_black.png",
+        "selectedIconPath": "source/brightness_black.png"
+      },
+      {
+        "pagePath": "pages/weather_pro/weather_pro",
+        "text": "天气2",
+        "iconPath": "source/sunbaby_black.png",
+        "selectedIconPath": "source/sunbaby_black.png"
+      }
+    ]
+  }
+}

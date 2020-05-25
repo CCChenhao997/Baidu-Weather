@@ -1,0 +1,21 @@
+.weather{
+    width: 100%;
+    text-align: center;
+    line-height: 30px;
+    padding-top: 50px;
+    color: #fff;
+    font-weight: 600;
+    height: 100%;
+}
+
+.intro {
+    margin: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+
+page {
+    background-color: #FFB6C1;
+}

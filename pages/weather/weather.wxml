@@ -1,0 +1,8 @@
+<view class="intro">
+  <text >每日土味情话\n</text>
+  <text >{{title}}</text>
+</view>
+
+<view class="weather">
+  <text>{{weatherData}}</text>
+</view>
