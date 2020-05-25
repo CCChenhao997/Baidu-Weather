@@ -1,4 +1,4 @@
-# Baidu-Weather
+# Baidu-Weather 微信小程序
 
 ## 界面展示
 
